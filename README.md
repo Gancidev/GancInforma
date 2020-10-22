@@ -29,7 +29,7 @@ Anche questa molto minimal suddivisa in 3 parti:
   2) sidebar : piccolo menù laterale con i 3 bottoni che cambiano la pagina visualizzata nella sezione centrale.
   3) webview : una webview fullscreen che cambia pagina in base ai bottoni del menù.
   
- La scelta di Java deriva da una semplice scelta di sviluppo.
+ L'utilizzo di Java deriva da una scelta di sviluppo.
 
 # Fonte
 La fonte dei dati utilizzati è la repository della protezione civile, aggiornata ogni giorno alle 18 circa.
