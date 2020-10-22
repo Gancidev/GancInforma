@@ -21,6 +21,8 @@ Composto da 4 pagine:
 L'utilizzo del Javascript è dovuto all'utilizzo del dropdown per garantire un aggiornamento dinamico della pagina.
 L'utilizzo del PHP è dovuto alla richiesta dei dati.
 
+Per scelta il sito non è navigabile.
+
 # WebApp
 Anche questa molto minimal suddivisa in 3 parti:
   1) info_button : un bottone in basso per dare un contatto di informazione.
