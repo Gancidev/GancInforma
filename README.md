@@ -1,6 +1,6 @@
 # GanciInforma
 Progetto nato all'inizio della quarantena quando in pochi fornivano questo servizio e bisognava controllare i report dai siti ufficiali con difficoltà in lettura a volte.
-il progetto si basa su una WebApp e un Sito di appoggio entrambi ideati da me, lo stile è molto minimal per non compromettere leggibilità e immediatezza delle informazioni.
+<br>Il progetto si basa su una WebApp e un Sito di appoggio entrambi ideati da me, lo stile è molto minimal per non compromettere leggibilità e immediatezza delle informazioni.
 
 ## Scopo
 Dare alle persone la possibilità di avere a portata di mano le informazioni in modo chiaro e senza troppa difficoltà.
