@@ -2,36 +2,32 @@
 Progetto nato all'inizio della quarantena quando in pochi fornivano questo servizio e bisognava controllare i report dai siti ufficiali con difficoltà in lettura a volte.
 il progetto si basa su una WebApp e un Sito di appoggio entrambi ideati da me, lo stile è molto minimal per non compromettere leggibilità e immediatezza delle informazioni.
 
-# Scopo
+## Scopo
 Dare alle persone la possibilità di avere a portata di mano le informazioni in modo chiaro e senza troppa difficoltà.
 
-# Implementazione
+## Implementazione
 Il progetto si divide in due parti:
   1) Sito Web: realizzato semplicemente con HTML, CSS, Javascript e PHP.
   2) WebApp: realizzata tramite l'applicativo Android Studio con linguaggio di programmazione Java.
 
-# Sito Web
-Molto minimal e semplice con stile arrotondato e differenti gradazioni del blu.<br>
-Composto da 4 pagine:
-  1) avv : semplice pagina di introduzione al contenuto del sito.
-  2) num : riepilogo della situazione italiana.
-  3) cond : riepilogo delle condizioni dei positivi.
-  4) ripa : prima sezione con bottone per download diretto del file sommario per regione, seconda sezione con dropdown e possibilità di scelta della regione di cui mostrare il dettaglio.
+## Sito Web
+Molto minimal e semplice con stile arrotondato <br>
+Composto da 1 pagina contenente:
+  1) Sezione Presentativa : semplice pagina di introduzione al contenuto del sito.
+  2) Numeri in Italia: riepilogo della situazione italiana.
+  3) Condizioni dei Positivi : riepilogo sulle condizioni dei positivi.
+  4) Ripartizione nelle Regioni : bottone per download diretto del file sommario per regione, dropdown e possibilità di scelta della regione di cui mostrare il dettaglio.
   
-L'utilizzo del Javascript è dovuto all'utilizzo del dropdown per garantire un aggiornamento dinamico della pagina.
+L'utilizzo del Javascript è dovuto all'utilizzo del dropdown per garantire un aggiornamento dinamico della pagina e al counter dinamico.
 L'utilizzo del PHP è dovuto alla richiesta dei dati.
 
-Per scelta il sito non è navigabile.
-
-# WebApp
-Anche questa molto minimal suddivisa in 3 parti:
-  1) info_button : un bottone in basso per dare un contatto di informazione.
-  2) sidebar : piccolo menù laterale con i 3 bottoni che cambiano la pagina visualizzata nella sezione centrale.
-  3) webview : una webview fullscreen che cambia pagina in base ai bottoni del menù.
+## WebApp
+Anche questa molto minimal composta da un solo componente:
+  1) webview : una webview fullscreen che mostra il sitoweb.
   
  L'utilizzo di Java deriva da una scelta di sviluppo.
 
-# Fonte
+## Fonte
 La fonte dei dati utilizzati è la repository della protezione civile, aggiornata ogni giorno alle 18 circa.
 
 Link: https://github.com/pcm-dpc/COVID-19
